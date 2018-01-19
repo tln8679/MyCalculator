@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <color name="grayish">#FF242623</color>
+
+    <style name="Theme.AppCompat.Light"  >
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:colorBackground">@color/grayish</item>
+    </style>
+
+</resources>
